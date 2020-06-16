@@ -1,0 +1,52 @@
+.container{
+    position: absolute  ;
+    left: 26%;
+    top: 100px;
+}
+
+#email{
+    width: 500px;
+}
+
+#pwd{
+    width: 500px;
+}
+.border{
+    border-radius: 50px;
+    width: 550px;
+    color: black;
+    height: 400px;
+}
+.form-group{
+    position: relative;
+    top: 50px;
+}
+
+.btn{
+    position: relative;
+    top: 50px;
+    left: 56px;
+    width: 200px;
+}
+.btn:hover{
+    border-color: transparent;
+}
+
+.btn1 {
+    position: relative;
+    background-color:palegreen;
+    top: 52px;
+    left: 56px;
+    width: 200px;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+}
+.btn1:hover{
+    transition: .10s;
+    background-color: palegreen;
+}
+
+.btn1.btn-primary{
+    border-color: transparent;
+}
