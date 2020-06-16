@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <title>Feira Virtual</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<div id="titulo">
+    <h1>Feira Virtual</h1>
+</div>
+    <div class="melancia">
+        <img src="/imagens/melancia.png" alt="">
+        <h2 id="total">R$4.00</h2>
+        <img onclick="add1melancia()"  id="melancia1" src="/imagens/sinalmaior.png" width="14px">
+        <img onclick="sub1melancia()" id="melancia2" src="/imagens/sinalmenor.png" width="14x">
+        <p id="valorMelancia"></p>
+    </div>
+    
+    <div class="abacate">
+        <img src="/imagens/abacate.png" alt="">
+        <img onclick="add1()"  id="abacate1" src="/imagens/sinalmaior.png" width="14px">
+        <img onclick="sub1()"  id="abacate2" src="/imagens/sinalmenor.png" width="14x">
+        <p id="valor"></p>
+    </div>
+    
+    </div>
+    <p id="total"></p>
+    <script src="app.js" type="text/javascript"></script>
+    </body>
+    </html>

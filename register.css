@@ -1,0 +1,33 @@
+.container{
+    position: absolute  ;
+    left: 26%;
+    top: 10px;
+}
+
+#email{
+    width: 500px;
+}
+
+#pwd{
+    width: 500px;
+}
+.border{
+    border-radius: 50px;
+    width: 550px;
+    color: black;
+    height: 500px;
+}
+.form-group{
+    position: relative;
+    top: 50px;
+}
+
+.btn{
+    position: relative;
+    top: 50px;
+    left: 150px;
+    width: 200px;
+}
+.btn:hover{
+    border-color: transparent;
+}

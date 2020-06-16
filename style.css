@@ -1,52 +1,91 @@
 .container{
-    position: absolute  ;
-    left: 26%;
+    position: absolute;
+    left:5%;
     top: 100px;
-}
-
-#email{
-    width: 500px;
-}
-
-#pwd{
-    width: 500px;
+    border-radius: 100px;
 }
 .border{
     border-radius: 50px;
-    width: 550px;
     color: black;
-    height: 400px;
+    height: 75%;
+    color: black;
+    background-color: white;
 }
-.form-group{
-    position: relative;
-    top: 50px;
+#titulo h1{
+    font-size: 100px;
+    text-align: center;
+    color: khaki;
+    height: 300px;
 }
-
-.btn{
-    position: relative;
-    top: 50px;
-    left: 56px;
-    width: 200px;
-}
-.btn:hover{
-    border-color: transparent;
+body{
+    background-color: blueviolet;
 }
 
-.btn1 {
-    position: relative;
-    background-color:palegreen;
-    top: 52px;
-    left: 56px;
-    width: 200px;
-    border: 1px solid transparent;
-    padding: .375rem .75rem;
-    border-radius: .25rem;
-}
-.btn1:hover{
-    transition: .10s;
-    background-color: palegreen;
+#melancia1{
+    width: 15px;
+    position: absolute  ;
+    top: 319px;
+    left: 10px;
 }
 
-.btn1.btn-primary{
-    border-color: transparent;
+
+#melancia2{
+    width: 15px;
+    position: absolute;
+    top: 319px;
+    left: 70px;
+}
+.melancia{
+    left: 30px;
+    border-style: solid;
+    border-color: orange;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+}
+
+#valor{
+    position: absolute;
+    left: 110px;
+    top: 317px;
+}
+.melancia img{
+    position: absolute;
+    top: 190px;
+    width: 100px;
+}
+
+.melancia h2{
+    position: absolute;
+    top: 220px;
+    left: 125px;
+}
+
+.abacate img {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    width: 100px;
+}
+
+#abacate1{
+    width:99px;
+    top: 319px;
+    left: 70px;
+}
+
+#abacate2{
+    width: 59px;
+    top: 319px;
+    left: 70px;
+}
+
+.abacate{
+    position: absolute;
+    left: 90px;
+    border-style: solid;
+    border-color: orange;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
 }
