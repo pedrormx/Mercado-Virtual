@@ -9,4 +9,6 @@
 
 <h2>Vamos la, irei apresentar o site com algumas funcionalidades</h2>
 
-<h3>1. Primeira tela do site, ou seja a tela de LOGIN</h3>
+<h3>1. Primeira tela do site</h3>
+<h3>Ou seja a tela de CEP! é nessa tela onde iremos localizar os mercados mais proximo de sua casa
+E assim tendo os melhores preços na tela de seu computador</h3>
