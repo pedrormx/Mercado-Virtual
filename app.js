@@ -23,11 +23,8 @@ function mostraTotal(){
     let valorTotalMelancia = melancia * totalMelancia
     let valorTotalAbacate = abacate * totalAbacate
     let valorTotal = valorTotalAbacate + valorTotalMelancia
-    document.getElementById('totalCompra').innerHTML = `
-    Total deu: R$${valorTotal}.00 <br>
-    Melancia : R$${valorTotalMelancia}<br>
-    Abacate : R$${valorTotalAbacate}
-    ` 
+    document.getElementById('totalCompra').innerHTML = 1
+    
 }
 
 let btn2 = document.getElementById('btn2')
