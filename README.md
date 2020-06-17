@@ -10,12 +10,12 @@
 <img src="https://user-images.githubusercontent.com/30984437/84948813-9cdb8e80-b0c2-11ea-8b99-b5e3b5074892.png">
 
 <p>3° Tela do nosso site, aqui fica a parte principal do nosso site</p>
-<img src="https://user-images.githubusercontent.com/30984437/84949028-f5129080-b0c2-11ea-806b-f2e0c04822b7.png">
+<img src="https://user-images.githubusercontent.com/30984437/84955370-91419500-b0cd-11ea-9f71-7f3169ce632a.png">
 
 <p>Aqui colocamos a quantidade que queremos dos produtos<p>
-<img src="https://user-images.githubusercontent.com/30984437/84950345-242a0180-b0c5-11ea-89f4-bcd3cf782ed6.png">
+<img src="https://user-images.githubusercontent.com/30984437/84955236-4889dc00-b0cd-11ea-9ec3-df4a787e17e8.png">
 
 <p>E depois de colocarmos os valores, ele mostra dentro de um POPUP, o valor total da compra</p>
-<img src="https://user-images.githubusercontent.com/30984437/84951061-3bb5ba00-b0c6-11ea-8eb6-6c65f7d2fe1a.png">
+<img src="https://user-images.githubusercontent.com/30984437/84955520-cc43c880-b0cd-11ea-9715-b3055e421c01.png">
 
 <h1>OBS: O sistema 'Mercado Virtual' nao possui um banco de dados, ele ainda esta em construção</h1>

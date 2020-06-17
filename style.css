@@ -150,3 +150,46 @@ body{
   top: 600px;
   left: 550px;
 }
+
+
+.price{
+    border-style: solid;
+    border-color: orange;
+    border-radius: 10px;
+    height: 40px;
+    width: 70%;
+    padding: 2px;
+    float: left;
+  }
+  .item{
+    padding: 20px;
+    border: solid 2px #fdfeff;
+    border-radius: 20px;
+    
+  }
+  .adj{
+    padding: 20px;
+  }
+
+#valormelancia{
+  position:absolute;
+  margin-top: -1px;
+  margin-left: 86px;
+  float: left;
+  padding: 10px 10px 10px 10px;
+  font-size: 1em;
+  background-color: #ffffff52;
+  border-radius: 10px;
+}
+
+#valorabacate{
+    position: absolute;
+    margin-top: -1px;
+    margin-left: 86px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+    font-size: 1em;
+    background-color: #ffffff52;
+    border-radius: 10px;
+  }
+

@@ -4,17 +4,17 @@ let melancia = 4
 let abacate = 3
 
 function add1melancia(){
-    document.getElementById('valorMelancia').innerHTML = `${totalMelancia+=1} `
+    document.getElementById('valormelancia').innerHTML = `${totalMelancia+=1} `
 }
 function sub1melancia(){
-    document.getElementById('valorMelancia').innerHTML = `${totalMelancia-=1} `
+    document.getElementById('valormelancia').innerHTML = `${totalMelancia-=1} `
 
 }
 function add1abacate(){
-    document.getElementById('valorAbacate').innerHTML = `${totalAbacate+=1} `
+    document.getElementById('valorabacate').innerHTML = `${totalAbacate+=1} `
 }
 function sub1abacate(){
-    document.getElementById('valorAbacate').innerHTML = `${totalAbacate-=1} `
+    document.getElementById('valorabacate').innerHTML = `${totalAbacate-=1} `
 
 }
 
@@ -36,7 +36,7 @@ function mostraTotal(){
 
 }
 
-let btn2 = document.getElementById('btn2')
+let btn2 = document.getElementsByClassName('btn2')
 btn2.addEventListener('click', function(){
     window.location.href = 'register.html'
 })
