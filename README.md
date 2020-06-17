@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/30984437/84948813-9cdb8e80-b0c2-11ea-8b99-b5e3b5074892.png">
 
 <p>3° Tela do nosso site, aqui fica a parte principal do nosso site</p>
-<img src="https://user-images.githubusercontent.com/30984437/84955370-91419500-b0cd-11ea-9f71-7f3169ce632a.png">
+<img src="https://user-images.githubusercontent.com/30984437/84956010-b8e52d00-b0ce-11ea-8548-9254b3226928.png">
 
 <p>Aqui colocamos a quantidade que queremos dos produtos<p>
 <img src="https://user-images.githubusercontent.com/30984437/84955236-4889dc00-b0cd-11ea-9ec3-df4a787e17e8.png">
