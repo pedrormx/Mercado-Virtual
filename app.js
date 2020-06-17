@@ -5,7 +5,6 @@ let abacate = 3
 
 function add1melancia(){
     document.getElementById('valorMelancia').innerHTML = `${totalMelancia+=1} `
-
 }
 function sub1melancia(){
     document.getElementById('valorMelancia').innerHTML = `${totalMelancia-=1} `

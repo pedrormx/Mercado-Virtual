@@ -1,16 +1,4 @@
-.container{
-    position: absolute;
-    left:5%;
-    top: 100px;
-    border-radius: 100px;
-}
-.border{
-    border-radius: 50px;
-    color: black;
-    height: 75%;
-    color: black;
-    background-color: white;
-}
+
 #titulo h1{
     font-size: 100px;
     text-align: center;
@@ -24,7 +12,7 @@ body{
 #melancia1{
     width: 15px;
     position: absolute  ;
-    top: 319px;
+    top: 9px;
     left: 10px;
 }
 
@@ -32,11 +20,13 @@ body{
 #melancia2{
     width: 15px;
     position: absolute;
-    top: 319px;
+    top: 9px;
     left: 70px;
 }
 .melancia{
+    position: absolute;
     left: 30px;
+    top: 400px;
     border-style: solid;
     border-color: orange;
     border-radius: 10px;
@@ -51,14 +41,27 @@ body{
 }
 .melancia img{
     position: absolute;
-    top: 190px;
+    top: -120px;
     width: 100px;
 }
 
+.navbar{
+    height: 90px;
+}
+
+.header {
+    background-color: darkorange;
+    padding: 50px;
+    text-align: center;
+  }
+.header h1{
+    font-size: 50px;
+}
+
 .melancia h2{
-    position: absolute;
-    top: 220px;
-    left: 125px;
+    position: absolute  ;
+    top: -90px;
+    left: 140px;
 }
 
 .abacate img {
@@ -83,7 +86,7 @@ body{
 .abacate{
     position: absolute;
     left: 400px;
-    top: 309px;
+    top: 400px;
     border-style: solid;
     border-color: orange;
     border-radius: 10px;
@@ -112,4 +115,16 @@ body{
     left: 40px;
     font-size: 20px;
     top: 2px;
+}
+
+#totalMostra{
+    position: absolute;
+    top: 600px;
+    width: 200px;
+}
+
+
+#totalCompra{
+    position: absolute;
+    left: 900px;
 }
