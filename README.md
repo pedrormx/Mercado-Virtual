@@ -17,3 +17,5 @@
 
 <p>E depois de colocarmos os valores, ele mostra dentro de um POPUP, o valor total da compra</p>
 <img src="https://user-images.githubusercontent.com/30984437/84951061-3bb5ba00-b0c6-11ea-8eb6-6c65f7d2fe1a.png">
+
+<h1>OBS: O sistema 'Mercado Virtual' nao possui um banco de dados, ele ainda esta em construção</h1>
