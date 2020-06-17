@@ -12,7 +12,7 @@
     width: 500px;
 }
 .border{
-    border-radius: 50px;
+    border-radius: 25px;
     width: 550px;
     color: black;
     height: 400px;
@@ -31,7 +31,10 @@
 .btn:hover{
     border-color: transparent;
 }
+body{
+    background-color: blueviolet;
 
+}
 .btn1 {
     position: relative;
     background-color:palegreen;

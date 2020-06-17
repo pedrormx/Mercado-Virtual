@@ -1,20 +1,35 @@
-let produtoTotal = 0
+let totalMelancia = 0
+let totalAbacate = 0
 let melancia = 4
-let banana = 5
-let uva = 2
+let abacate = 3
 
 function add1melancia(){
-    document.getElementById('valorMelancia').innerHTML = `${produtoTotal+=1} Melancia`
+    document.getElementById('valorMelancia').innerHTML = `${totalMelancia+=1} `
+
 }
 function sub1melancia(){
-    document.getElementById('valorMelancia').innerHTML = `${produtoTotal-=1} Melancia`
+    document.getElementById('valorMelancia').innerHTML = `${totalMelancia-=1} `
+
+}
+function add1abacate(){
+    document.getElementById('valorAbacate').innerHTML = `${totalAbacate+=1} `
+}
+function sub1abacate(){
+    document.getElementById('valorAbacate').innerHTML = `${totalAbacate-=1} `
+
 }
 
 
-
-
-
-
+function mostraTotal(){
+    let valorTotalMelancia = melancia * totalMelancia
+    let valorTotalAbacate = abacate * totalAbacate
+    let valorTotal = valorTotalAbacate + valorTotalMelancia
+    document.getElementById('totalCompra').innerHTML = `
+    Total deu: R$${valorTotal}.00 <br>
+    Melancia : R$${valorTotalMelancia}<br>
+    Abacate : R$${valorTotalAbacate}
+    ` 
+}
 
 
 

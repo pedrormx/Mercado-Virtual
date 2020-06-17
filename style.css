@@ -69,23 +69,47 @@ body{
 }
 
 #abacate1{
-    width:99px;
-    top: 319px;
-    left: 70px;
+    width:15px;
+    top: 10px;
+    left: 5px;
 }
 
 #abacate2{
-    width: 59px;
-    top: 319px;
+    width: 15px;
+    top: 10px;
     left: 70px;
 }
 
 .abacate{
     position: absolute;
-    left: 90px;
+    left: 400px;
+    top: 309px;
     border-style: solid;
     border-color: orange;
     border-radius: 10px;
     height: 40px;
     width: 100px;
+}
+#totalaba{
+    position: relative;
+    top: -89px;
+    left: 100px;
+}
+.abacate img{
+    position: absolute;
+    top: -115px;
+    left: -10px;
+}
+
+#valorMelancia{
+    position: absolute;
+    left: 43px;
+    font-size: 20px;
+}
+
+#valorAbacate{
+    position: absolute;
+    left: 40px;
+    font-size: 20px;
+    top: 2px;
 }
