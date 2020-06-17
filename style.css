@@ -26,7 +26,7 @@ body{
 .melancia{
     position: absolute;
     left: 30px;
-    top: 400px;
+    top: 395px;
     border-style: solid;
     border-color: orange;
     border-radius: 10px;
@@ -106,14 +106,14 @@ body{
 
 #valorMelancia{
     position: absolute;
-    left: 36px;
+    left: 30px;
     font-size: 30px;
     top: -7px;
 }
 
 #valorAbacate{
     position: absolute;
-    left: 36px;
+    left: 30px;
     font-size: 30px;
     top: -7px;
 }

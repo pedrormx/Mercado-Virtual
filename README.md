@@ -11,3 +11,9 @@
 
 <p>3° Tela do nosso site, aqui fica a parte principal do nosso site</p>
 <img src="https://user-images.githubusercontent.com/30984437/84949028-f5129080-b0c2-11ea-806b-f2e0c04822b7.png">
+
+<p>Aqui colocamos a quantidade que queremos dos produtos<p>
+<img src="https://user-images.githubusercontent.com/30984437/84950345-242a0180-b0c5-11ea-89f4-bcd3cf782ed6.png">
+
+<p>E depois de colocarmos os valores, ele mostra dentro de um POPUP, o valor total da compra</p>
+<img src="https://user-images.githubusercontent.com/30984437/84951061-3bb5ba00-b0c6-11ea-8eb6-6c65f7d2fe1a.png">
